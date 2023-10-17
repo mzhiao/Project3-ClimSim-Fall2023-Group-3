@@ -10,9 +10,9 @@ Term: Fall 2023
 + Team ##
 + Team members
 	+ Noreen Mayat
-	+ team member 2
-	+ team member 3
-	+ team member 4
+	+ Jason Cho
+	+ Haixin Shu
+	+ Yihan Zhang 
 	+ team member 5
 
 + Project summary: In this project, we created ...
