@@ -7,7 +7,7 @@
 
 Term: Fall 2023
 
-+ Team ##
++ Team 3
 + Team members
 	+ Noreen Mayat
 	+ Jason Cho
