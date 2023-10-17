@@ -9,7 +9,7 @@ Term: Fall 2023
 
 + Team ##
 + Team members
-	+ team member 1
+	+ Noreen Mayat
 	+ team member 2
 	+ team member 3
 	+ team member 4
