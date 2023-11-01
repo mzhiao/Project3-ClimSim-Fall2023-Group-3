@@ -24,16 +24,18 @@ Term: Fall 2023
 + **Findings:**
 	+ We used a Zero-Inflated Poisson Model.
  	+ We chose this model because our data distirbution had an excess number of zeroes.
+  		+ We built this model to predict the snow rate and rain rate.   
   		+ This model was more accurate for snow than for rain based on MAE scores.
-  		+ PCA Dimension Reduction did not improve model performance.
-  	+ We also used EN model as baseline to run other models.
-  	+ Trained our own CNN model → accuracy of 0.9757
-  	+ Other models we explored were: 2D CNN, MLP, ResNet.
+  		+ PCA Dimension Reduction did allow for convergences, but did not improve model performance.
+  	+ We also used ED model as baseline to run other models.
+  	+ Other models we explored were: 1D-CNN, 2D CNN, MLP, ResNet.
+  		+ 1D-CNN accuracy: 0.9757 
   		+ 2D-CNN accuracy: 0.9541
   		+ MLP accuracy: 0.9639
+  	+ We applied these models to both validation and scoring datasets, enabling a comprehensive performance comparison among them.
   	+ Based on performance metrics (ex. RMSE, R2, MAE scores) we found 2D-CNN to have the best results. 
 
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) We met to analyze our exploratory analysis and decided as a group on the zero-inflated Poisson model. Miao and Yihan, Jason, and Stephanie ran models on Google Colab. These were shared with the team. Miao merged these notebooks into one. Noreen reviewed and interpreted the model results, worked on the presentation slides, and organized the Github. All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
+**Contribution statement**: ([default](doc/a_note_on_contributions.md)) Miao Zhang, Jason Cho, and Yihan Zhang subsetted the dataset, built the Poisson Zero Inflated Model, and applied PCA for Dimension Reduction for snow rate and also rain rate. Haixin Shu built and validated the ED baseline, proposed four models: 1D-CNN, 2D-CNN, MLP, and ResNet, then applied these models to validation datasets and scoring datasets and compared their performance. Miao merged each of these notebooks into one. Noreen reviewed and interpreted the model results, worked on the presentation slides, and organized the Github. All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
