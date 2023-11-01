@@ -24,7 +24,7 @@ Term: Fall 2023
 + **Findings:**
 	+ We used a Zero-Inflated Poisson Model.
  	+ We chose this model because our data distirbution had an excess number of zeroes.
-  	+ This model was more accurate for snow than for rain based on MAE scores.
+  		+ This model was more accurate for snow than for rain based on MAE scores.
   	+ PCA Dimension Reduction did not improve model performance.
   	+ We also used EN model as baseline to run other models.
   	+ Trained our own CNN model → accuracy of 0.9757
