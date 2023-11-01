@@ -22,7 +22,8 @@ Term: Fall 2023
 	+ What advanced ML/DL models could be applied to the ClimSim data set to improve the evaluation metrics?
 
 + **Findings:**
-	+ 
+	+ We used a Zero-Inflated Poisson Model.
+ 	+ We chose this model because our data distirbution had an excess number of zeroes. 
 	
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
