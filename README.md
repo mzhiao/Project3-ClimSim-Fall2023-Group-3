@@ -26,7 +26,7 @@ Term: Fall 2023
  	+ We chose this model because our data distirbution had an excess number of zeroes. 
 	
 
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: ([default](doc/a_note_on_contributions.md)) We met to analyze our exploratory analysis and decided as a group on the zero-inflated Poisson model. Miao and Yihan, Jason, and Stephanie ran ZI models on Google Colab. These were shared with the team. Miao merged these notebooks into one. Noreen reviewed and interpreted the model results, worked on the presentation slides, and organized the Github. All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
