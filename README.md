@@ -32,7 +32,7 @@ Term: Fall 2023
   		+ Baseline accuracy: 0.9757 
   		+ 2D-CNN accuracy: 0.9541
   	+ We applied these models to both validation and scoring datasets, enabling a comprehensive performance comparison among them.
-  	+ Comapred to other models we ran,based on performance metrics (ex. RMSE, R2, MAE scores), we found 2D-CNN to have the best results.
+  	+ Compared to other models we ran,based on performance metrics (ex. RMSE, R2, MAE scores), we found 2D-CNN to have the best results.
   	+ Our baseline has a very high accuracy which no other models were able to surpass. 
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) Miao Zhang, Jason Cho, and Yihan Zhang subsetted the dataset, built the Poisson Zero Inflated Model, and applied PCA for Dimension Reduction for snow rate and also rain rate. Haixin Shu built and validated the ED baseline, proposed four models: 1D-CNN, 2D-CNN, MLP, and ResNet, then applied these models to validation datasets and scoring datasets and compared their performance. Miao merged each of these notebooks into one. Noreen reviewed and interpreted the model results, worked on the presentation slides, and organized the Github. All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
