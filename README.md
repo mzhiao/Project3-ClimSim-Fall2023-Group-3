@@ -31,7 +31,7 @@ Term: Fall 2023
   	+ Other models we explored were: 2D CNN, MLP, ResNet.
   		+ 2D-CNN accuracy: 0.9541
   		+ MLP accuracy: 0.9639
-  	+ Based on performance metrics (ex. RMSE, R2, MAE scores) found 2D-CNN to have the best results. 
+  	+ Based on performance metrics (ex. RMSE, R2, MAE scores) we found 2D-CNN to have the best results. 
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) We met to analyze our exploratory analysis and decided as a group on the zero-inflated Poisson model. Miao and Yihan, Jason, and Stephanie ran models on Google Colab. These were shared with the team. Miao merged these notebooks into one. Noreen reviewed and interpreted the model results, worked on the presentation slides, and organized the Github. All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
 
